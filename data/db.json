@@ -1,0 +1,8 @@
+{
+  "jobs": [
+    { "title": "Lorem abc", "id": 1, "details": "Lorem ipsum is simply" },
+    { "title": "Lorem def", "id": 2, "details": "Lorem ipsum is simply" },
+    { "title": "Lorem ghi", "id": 3, "details": "Lorem ipsum is simply" }
+  ],
+  "blogs":[]
+}
